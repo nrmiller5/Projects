@@ -1,6 +1,6 @@
 # Projects
 
-This is a public repository to display data science projects I have worked on.
+This is a public repository to display a few data science projects I have worked on.
 
 # KMeans_from_scratch:
 
