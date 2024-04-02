@@ -4,7 +4,7 @@ This is a public repository to display a few data science projects I have worked
 
 # KMeans_from_scratch:
 
-This is an implementation of agglomerative hierarchical clustering from sratch. It includes analysis of running time across various parameters. In addition, there is a section to showcase image compression using the KMeans algorithm.
+This is an implementation of KMeans clustering from sratch. It includes analysis of running time across various parameters. In addition, there is a section to showcase image compression using the KMeans algorithm.
 
 # Netflix_AB_Testing_Project:
 
